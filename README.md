@@ -11,4 +11,4 @@ New scientific research depends on new data, especially in the field of microsco
 data_gen_DN                              # Script for generating the training data for the low quality images vector of the initial data 
 data_gen_SR                              # Script for generating the training data for the super-resolved images vector of the initial data
 augmentation.py                          # Script with the implementation of the different translation techniques (Flipping, transposing, rotating...)
-vae_training.py
+vae_training.py                          # Script with the architecture and VAE training
